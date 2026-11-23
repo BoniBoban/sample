@@ -1,3 +1,3 @@
 # Power BI Dashboard
-## Power BI Dashboard
-### Power BI Dashboard
+
+![image](Sales.jpg)
